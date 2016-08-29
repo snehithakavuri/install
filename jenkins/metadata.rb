@@ -10,6 +10,7 @@ supports         'centos', '>= 6.6'
 supports         'redhat', '>= 6.6'
 supports         'ubuntu', '>= 12.04'
 supports         'debian', '>= 7.0'
+cookbook  'jenkins-server', '~> 0.7.5'
 
 depends 'jenkins', '>= 2.3.1'
 depends 'java'
