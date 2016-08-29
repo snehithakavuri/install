@@ -10,6 +10,7 @@ depends 'apt'
 depends 'java'
 depends 'ark'
 depends 'windows'
+depends 'homebrew'
 
 supports 'ubuntu', '>= 10.04'
 supports 'centos', '>= 6.0'
