@@ -9,6 +9,7 @@ version '1.0.0'
 depends 'apt'
 depends 'java'
 depends 'ark'
+depends 'windows'
 
 supports 'ubuntu', '>= 10.04'
 supports 'centos', '>= 6.0'
